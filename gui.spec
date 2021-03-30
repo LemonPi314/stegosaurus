@@ -3,7 +3,7 @@
 block_cipher = None
 
 
-a = Analysis(['gui.py', 'rsa.py', 'stego.py'],
+a = Analysis(['gui.py', 'crypto.py', 'stego.py'],
              pathex=['C:\\Users\\Timothy Pavlushik\\Documents\\Visual Studio Code\\Projects\\stegosaurus'],
              binaries=[],
              datas=[],
